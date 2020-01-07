@@ -11,7 +11,7 @@ public class MultiChatServer {
 		
 		ServerSocket serverSocket = null;
 		try {
-			serverSocket = new ServerSocket(1004);
+			serverSocket = new ServerSocket(1024);
 //         서버가 실행된 상태에서 접속되는 모든 접속을 받아줘야 하므로 무한 루프를 돌린다.
 			while(true) {
 				Socket socket = serverSocket.accept();

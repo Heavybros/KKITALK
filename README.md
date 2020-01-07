@@ -9,7 +9,7 @@
 | 개발인원   | 6명                               |
 | 플랫폼     | Windows                           |
 | 개발 언어  | Java                              |
-| 개발 도구  | Eclipse                           |
+| 개발 도구  | IntelliJ                           |
 
 ## 프로젝트 설명
 
